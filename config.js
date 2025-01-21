@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "enter your gmax md session id here",
+SESSION_ID: process.env.SESSION_ID || "GMAX-MD~SR4jgRgR#jZMBobvXSrUNT_WMVIb_OjKOmvX171SIjzCm0EwRdGU",
  
 PREFIX: process.env.PREFIX || ".",
 // Enter Your Desired Prefix
@@ -25,7 +25,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "255622053093",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "233532555673",
 // Set Owner Name
 
 OWNER_NAME: process.env.OWNER_NAME || "sɪʀ ɢᴍᴀx",
